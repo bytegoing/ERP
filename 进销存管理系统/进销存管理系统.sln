@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "进销存管理系统", "进销存管理系统\进销存管理系统.csproj", "{D224B0CF-B5A5-4345-853B-682C5BA53F30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "进销存管理系统.BLL", "进销存管理系统.BLL\进销存管理系统.BLL.csproj", "{2CCBF998-3CA1-48F0-BD7D-7EBDC509CA86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "进销存管理系统.DAL", "进销存管理系统.DAL\进销存管理系统.DAL.csproj", "{918E1BC7-DB71-4A8B-ACB1-A79EA5177916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "进销存管理系统.Models", "进销存管理系统.Models\进销存管理系统.Models.csproj", "{43F53BDB-EF5A-471B-8C8F-75E7FBCCBE88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "进销存管理系统.Common", "进销存管理系统.Common\进销存管理系统.Common.csproj", "{1B1AB28A-C1B5-4545-ADDB-ADBDA69C706B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D224B0CF-B5A5-4345-853B-682C5BA53F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D224B0CF-B5A5-4345-853B-682C5BA53F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D224B0CF-B5A5-4345-853B-682C5BA53F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D224B0CF-B5A5-4345-853B-682C5BA53F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CCBF998-3CA1-48F0-BD7D-7EBDC509CA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCBF998-3CA1-48F0-BD7D-7EBDC509CA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCBF998-3CA1-48F0-BD7D-7EBDC509CA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCBF998-3CA1-48F0-BD7D-7EBDC509CA86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{918E1BC7-DB71-4A8B-ACB1-A79EA5177916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918E1BC7-DB71-4A8B-ACB1-A79EA5177916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918E1BC7-DB71-4A8B-ACB1-A79EA5177916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918E1BC7-DB71-4A8B-ACB1-A79EA5177916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F53BDB-EF5A-471B-8C8F-75E7FBCCBE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F53BDB-EF5A-471B-8C8F-75E7FBCCBE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F53BDB-EF5A-471B-8C8F-75E7FBCCBE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F53BDB-EF5A-471B-8C8F-75E7FBCCBE88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B1AB28A-C1B5-4545-ADDB-ADBDA69C706B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B1AB28A-C1B5-4545-ADDB-ADBDA69C706B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B1AB28A-C1B5-4545-ADDB-ADBDA69C706B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B1AB28A-C1B5-4545-ADDB-ADBDA69C706B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3703B970-F0A0-4B87-8550-C3701F66BFD3}
+	EndGlobalSection
+EndGlobal
